@@ -22,12 +22,38 @@ MilestonePay   VoteVault
 
 I build and deploy full-stack web applications with Go, Django, Next.js, and React. My work covers backend APIs, authentication, access control, and production deployment. I also build Ethereum projects around escrow and on-chain governance. [More about my work](https://nasirovpe.com/about/).
 
-## Featured projects
+## 🌟 Featured Engineering Portfolio
 
-| Project | What it does |
-| :--- | :--- |
-| **[MilestonePay](https://github.com/nasirovpe/milestonepay)** | An Ethereum escrow prototype for freelance projects that funds one milestone at a time. |
-| **[VoteVault](https://github.com/nasirovpe/VoteVault)** | A testnet DAO with delegated voting, timelocked proposals, and a wallet-connected Next.js interface. |
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>💸 <a href="https://github.com/nasirovpe/milestonepay">MilestonePay</a></strong>
+      <p><em>Freelance escrow on Ethereum</em></p>
+      <p>Smart contract prototype that holds funds for one milestone at a time and settles each milestone on-chain.</p>
+      <code>Solidity</code> <code>Foundry</code> <code>Next.js</code>
+    </td>
+    <td width="50%" valign="top">
+      <strong>🗳️ <a href="https://github.com/nasirovpe/VoteVault">VoteVault</a></strong>
+      <p><em>DAO governance and treasury</em></p>
+      <p>Testnet dApp for delegated voting, timelocked proposals, and treasury allocations.</p>
+      <code>Solidity</code> <code>Foundry</code> <code>Next.js</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🎓 <a href="https://github.com/nasirovpe/certproof">CertProof</a></strong>
+      <p><em>Decentralized credential verification</em></p>
+      <p>Verifies certificates by hashing PDFs in the browser and checking the result against an on-chain registry.</p>
+      <code>Solidity</code> <code>Next.js</code> <code>Web Workers</code>
+    </td>
+    <td width="50%" valign="top">
+      <strong>💼 <a href="https://github.com/nasirovpe/hr-candidate-system">HR Candidate System</a></strong>
+      <p><em>Applicant tracking portal</em></p>
+      <p>Frontend prototype with candidate, HR, and admin dashboards, CV creation, and skills matching.</p>
+      <code>HTML</code> <code>Tailwind CSS</code> <code>JavaScript</code>
+    </td>
+  </tr>
+</table>
 
 ## Technology stack
 
