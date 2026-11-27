@@ -58,3 +58,18 @@ I build and deploy full-stack web applications with Go, Django, Next.js, and Rea
 ## Technology stack
 
 ![Go, Python, TypeScript, Next.js, React, Django, Solidity, PostgreSQL, Docker and Linux](https://skillicons.dev/icons?i=go,python,ts,nextjs,react,django,solidity,postgres,docker,linux&perline=5)
+
+## 📊 GitHub Telemetry & Contribution Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nasirovpe&amp;theme=github_dark" height="165" alt="GitHub activity statistics for nasirovpe">
+  <img src="https://streak-stats.demolab.com/?user=nasirovpe&amp;theme=github-dark-blue&amp;hide_border=true" height="165" alt="GitHub contribution streak for nasirovpe">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nasirovpe&amp;theme=github_dark" height="165" alt="Programming languages by repository count">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasirovpe&amp;bg_color=0d1117&amp;color=c9d1d9&amp;line=2dd4bf&amp;point=f0f6fc&amp;area=true&amp;area_color=087e78&amp;hide_border=true&amp;radius=8" width="96%" alt="GitHub contribution activity graph for nasirovpe">
+</p>
