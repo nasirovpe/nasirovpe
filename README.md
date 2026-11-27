@@ -110,3 +110,14 @@ I build and deploy full-stack web applications with Go, Django, Next.js, and Rea
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasirovpe&amp;bg_color=0d1117&amp;color=c9d1d9&amp;line=2dd4bf&amp;point=f0f6fc&amp;area=true&amp;area_color=087e78&amp;hide_border=true&amp;radius=8" width="96%" alt="GitHub contribution activity graph for nasirovpe">
 </p>
+
+## 📫 Connect & Collaborate
+
+I'm open to collaborating on full-stack applications, Web3 prototypes, and projects that need a security-minded approach.
+
+| Platform | Where to find me | Action |
+| :--- | :--- | :--- |
+| 🌐 **Portfolio** | `nasirovpe.com` | [Explore my work ↗](https://nasirovpe.com/portfolio/) |
+| 💼 **LinkedIn** | `in/nasirovpe` | [Connect on LinkedIn ↗](https://www.linkedin.com/in/nasirovpe/) |
+| ▶️ **YouTube** | `@nasirovpecom` | [Visit my channel ↗](https://www.youtube.com/@nasirovpecom) |
+| ✉️ **Contact** | `nasirovpe.com/contact` | [Send a project brief ↗](https://nasirovpe.com/contact/) |
