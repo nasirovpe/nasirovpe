@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nasirovpe.com/"><strong>Portfolio ↗</strong></a> &nbsp;
+  <a href="https://nasirovpe.com/"><strong>🌐 Portfolio</strong></a> &nbsp;
   <a href="https://www.linkedin.com/in/nasirovpe/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-175C88?style=for-the-badge"></a>
   <a href="https://www.youtube.com/@nasirovpecom"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-A32337?style=for-the-badge&amp;logo=youtube&amp;logoColor=white"></a>
 </p>
