@@ -55,9 +55,46 @@ I build and deploy full-stack web applications with Go, Django, Next.js, and Rea
   </tr>
 </table>
 
-## Technology stack
+## 🛠️ Technical Arsenal & Ecosystem
 
-![Go, Python, TypeScript, Next.js, React, Django, Solidity, PostgreSQL, Docker and Linux](https://skillicons.dev/icons?i=go,python,ts,nextjs,react,django,solidity,postgres,docker,linux&perline=5)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,django,ts,react,nextjs,postgres,redis,docker,linux,solidity,git&amp;perline=6" alt="Go, Python, Django, TypeScript, React, Next.js, PostgreSQL, Redis, Docker, Linux, Solidity and Git">
+</p>
+
+<table width="100%">
+  <tr>
+    <th align="left">Domain</th>
+    <th align="left">Tools &amp; Practices</th>
+  </tr>
+  <tr>
+    <td><strong>⚙️ Backend &amp; APIs</strong></td>
+    <td><img alt="Go" src="https://img.shields.io/static/v1?label=&amp;message=Go&amp;color=175C88&amp;style=flat-square&amp;logo=go&amp;logoColor=white"> <img alt="Python" src="https://img.shields.io/static/v1?label=&amp;message=Python&amp;color=175C88&amp;style=flat-square&amp;logo=python&amp;logoColor=white"> <img alt="Django" src="https://img.shields.io/static/v1?label=&amp;message=Django&amp;color=175C88&amp;style=flat-square&amp;logo=django&amp;logoColor=white"> <img alt="Gin" src="https://img.shields.io/static/v1?label=&amp;message=Gin&amp;color=175C88&amp;style=flat-square&amp;logo=gin&amp;logoColor=white"></td>
+  </tr>
+  <tr>
+    <td><strong>🎨 Frontend</strong></td>
+    <td><img alt="TypeScript" src="https://img.shields.io/static/v1?label=&amp;message=TypeScript&amp;color=087E78&amp;style=flat-square&amp;logo=typescript&amp;logoColor=white"> <img alt="React" src="https://img.shields.io/static/v1?label=&amp;message=React&amp;color=087E78&amp;style=flat-square&amp;logo=react&amp;logoColor=white"> <img alt="Next.js" src="https://img.shields.io/static/v1?label=&amp;message=Next.js&amp;color=087E78&amp;style=flat-square&amp;logo=nextdotjs&amp;logoColor=white"> <img alt="Tailwind CSS" src="https://img.shields.io/static/v1?label=&amp;message=Tailwind%20CSS&amp;color=087E78&amp;style=flat-square&amp;logo=tailwindcss&amp;logoColor=white"></td>
+  </tr>
+  <tr>
+    <td><strong>🗄️ Data &amp; Infrastructure</strong></td>
+    <td><img alt="PostgreSQL" src="https://img.shields.io/static/v1?label=&amp;message=PostgreSQL&amp;color=384768&amp;style=flat-square&amp;logo=postgresql&amp;logoColor=white"> <img alt="Redis" src="https://img.shields.io/static/v1?label=&amp;message=Redis&amp;color=384768&amp;style=flat-square&amp;logo=redis&amp;logoColor=white"> <img alt="Docker" src="https://img.shields.io/static/v1?label=&amp;message=Docker&amp;color=384768&amp;style=flat-square&amp;logo=docker&amp;logoColor=white"> <img alt="Linux" src="https://img.shields.io/static/v1?label=&amp;message=Linux&amp;color=384768&amp;style=flat-square&amp;logo=linux&amp;logoColor=white"></td>
+  </tr>
+  <tr>
+    <td><strong>⛓️ Web3 &amp; Smart Contracts</strong></td>
+    <td><img alt="Solidity" src="https://img.shields.io/static/v1?label=&amp;message=Solidity&amp;color=574B83&amp;style=flat-square"> <img alt="Ethereum" src="https://img.shields.io/static/v1?label=&amp;message=Ethereum&amp;color=574B83&amp;style=flat-square&amp;logo=ethereum&amp;logoColor=white"> <img alt="Foundry" src="https://img.shields.io/static/v1?label=&amp;message=Foundry&amp;color=574B83&amp;style=flat-square"> <img alt="viem" src="https://img.shields.io/static/v1?label=&amp;message=viem&amp;color=574B83&amp;style=flat-square"></td>
+  </tr>
+  <tr>
+    <td><strong>🛡️ Cybersecurity</strong></td>
+    <td><img alt="OWASP" src="https://img.shields.io/static/v1?label=&amp;message=OWASP&amp;color=854047&amp;style=flat-square&amp;logo=owasp&amp;logoColor=white"> <img alt="Access Control" src="https://img.shields.io/static/v1?label=&amp;message=Access%20Control&amp;color=854047&amp;style=flat-square"> <img alt="Audit Logging" src="https://img.shields.io/static/v1?label=&amp;message=Audit%20Logging&amp;color=854047&amp;style=flat-square"> <img alt="Security Hardening" src="https://img.shields.io/static/v1?label=&amp;message=Security%20Hardening&amp;color=854047&amp;style=flat-square"></td>
+  </tr>
+</table>
+
+<details>
+  <summary><strong>🔍 Engineering workflow</strong></summary>
+
+  - **Application design** — Define backend APIs, model relational data, and implement role-based access control and audit logging.
+  - **Deployment** — Package applications with Docker and run them on Linux, with CI/CD, backups, and production troubleshooting.
+  - **Smart contract testing** — Use Foundry for unit, fuzz, and invariant tests in projects such as VoteVault.
+</details>
 
 ## 📊 GitHub Telemetry & Contribution Analytics
 
