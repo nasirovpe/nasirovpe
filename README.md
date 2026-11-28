@@ -1,4 +1,4 @@
-<h1 align="center">Pərviz Nəsirov</h1>
+<h1 align="center">Parviz Nasirov</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=23&amp;duration=2800&amp;pause=1600&amp;color=0E9289&amp;center=true&amp;vCenter=true&amp;width=540&amp;height=48&amp;lines=Full-stack+engineering;Cybersecurity+%26+DevOps;Web3+%26+smart+contracts" alt="Full-stack engineering, cybersecurity and DevOps, Web3 and smart contracts">
